@@ -1,9 +1,9 @@
-# 뉴스 데이터를 활용한 단어 임베딩
+### 뉴스 데이터를 활용한 단어 임베딩
 
-## 1. Word2Vec
+#### 1. Word2Vec
 
-## 2. FastText
+#### 2. FastText
 
-## 3. LSA
+#### 3. LSA
 
-## 4. Glove
+#### 4. Glove
